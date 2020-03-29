@@ -1,4 +1,5 @@
 ## Task 1. Caesar cipher CLI tool
+___________________
 
 ## OVERVIEW
 
@@ -42,7 +43,7 @@ $ node my_caesar_cli --action decode --shift 7 --input decoded.txt --output plai
 > output.txt
 > `Aopz pz zljyla. Tlzzhnl hivba "_" zftivs!`
 
-
+____________________
 
 # Критерии оценки заданий 20/100
 
